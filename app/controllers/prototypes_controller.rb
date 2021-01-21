@@ -57,5 +57,4 @@ class PrototypesController < ApplicationController
         redirect_to :index
       end
    end
-
 end
